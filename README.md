@@ -14,7 +14,7 @@ Figure 1: Sonar system block diagram
 Figure 2: Corner reflector target 
 
 ![Alt text](img/setup.gif) ![Alt text](img/results.gif)
-Figure 3: Results
+Figure 3: Results show sonar image of target 3 m away from "transceiver"
 ## References
 
 [1] G. L. Charvat, A. J. Fenn, and B. T. Perry, “The MIT IAP radar course: Build a small radar system capable of sensing range, Doppler, and synthetic aperture (SAR) imaging,” IEEE National Radar Conference - Proceedings, pp. 0138–0144, 2012, issn: 10975659. doi: 10.1109/RADAR.2012.6212126.
