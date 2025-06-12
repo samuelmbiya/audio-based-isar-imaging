@@ -11,9 +11,15 @@ This repository contains the source code for an investigation I performed into t
 Sonar system block diagram
 
 ### Experiment setup
+![Alt text](img/4_corner_reflector_target.png)
+
+Target 
+
+![Alt text](img/setup.gif)
 
 ### Results
 
+![Alt text](img/results.gif)
 
 ## References
 
