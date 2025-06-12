@@ -7,16 +7,14 @@ This repository contains the source code for an investigation I performed into t
 ### Sonar system design
 
 ![Alt text](img/system_block_diagram.png)
-
-Sonar system block diagram
+Figure 1: Sonar system block diagram
 
 ### Experiment setup and results
 ![Alt text](img/4_corner_reflector_target.png)
-
-Target 
+Figure 2: Corner reflector target 
 
 ![Alt text](img/setup.gif) ![Alt text](img/results.gif)
-
+Figure 3: Results
 ## References
 
 [1] G. L. Charvat, A. J. Fenn, and B. T. Perry, “The MIT IAP radar course: Build a small radar system capable of sensing range, Doppler, and synthetic aperture (SAR) imaging,” IEEE National Radar Conference - Proceedings, pp. 0138–0144, 2012, issn: 10975659. doi: 10.1109/RADAR.2012.6212126.
